@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\crud\crud\obj\Debug\crud.Form1.resources
+C:\Users\HP\source\repos\crud\crud\obj\Debug\crud.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\crud\crud\obj\Debug\crud.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\crud\crud\bin\Debug\Ravi_Student_Management_System.exe.config
+C:\Users\HP\source\repos\crud\crud\bin\Debug\Ravi_Student_Management_System.exe
+C:\Users\HP\source\repos\crud\crud\bin\Debug\Ravi_Student_Management_System.pdb
+C:\Users\HP\source\repos\crud\crud\obj\Debug\Ravi_Student_Management_System.Properties.Resources.resources
+C:\Users\HP\source\repos\crud\crud\obj\Debug\Ravi_Student_Management_System.exe
+C:\Users\HP\source\repos\crud\crud\obj\Debug\Ravi_Student_Management_System.pdb
+C:\Users\HP\source\repos\crud\crud\obj\Debug\crud.csproj.AssemblyReference.cache
